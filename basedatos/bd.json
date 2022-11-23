@@ -1,0 +1,45 @@
+{
+  "usuarios": [
+    {
+      "nombre": "juan perez 2",
+      "direccion": "calle 6",
+      "celular": 7196206,
+      "id": 1
+    },
+    {
+      "nombre": "juan perez 1",
+      "direccion": "calle 7",
+      "celular": 7196206,
+      "id": 2
+    },
+    {
+      "nombre": "juan perez",
+      "direccion": "calle 8",
+      "celular": 7196206,
+      "id": 3
+    }
+  ],
+  "consumos": [
+    {
+      "cantidad": 120,
+      "fecha": "2022-10-03T04:00:00.000Z",
+      "total": 1200,
+      "usuarioid": 3,
+      "id": 1
+    },
+    {
+      "cantidad": 100,
+      "fecha": "2022-11-01T04:00:00.000Z",
+      "total": 1000,
+      "usuarioid": 2,
+      "id": 2
+    },
+    {
+      "cantidad": 90,
+      "fecha": "2022-09-05T04:00:00.000Z",
+      "total": 900,
+      "usuarioid": 1,
+      "id": 3
+    }
+  ]
+}
